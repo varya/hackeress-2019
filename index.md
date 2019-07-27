@@ -1905,7 +1905,7 @@ presented and shape your design system up to the needs of your company and proje
 
 ### A Practical Guide TO BUILDING YOUR Design System Infrastructure
 
-### [Slides: varya.me/patterns-day-2019](http://varya.me/patterns-day-2019/)
+### [Slides: varya.me/hackeress-2019/](http://varya.me/hackeress-2019/)
 {: .slides }
 
 #### by Varya Stepanova
