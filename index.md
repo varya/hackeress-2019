@@ -79,7 +79,7 @@ style: |
 
 <b>Varya Stepanova</b>, Design Systems Expert / [varya.me](http://varya.me)
 {: .author }
-@ [Patterns Day](https://patternsday.com/), June 28<sup>th</sup>, 2019. Brighton, England
+@ Hackeress meetup, August 6<sup>th</sup>, 2019. Helsinki, Finland
 {: .event }
 
 <script>
