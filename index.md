@@ -220,32 +220,56 @@ our design system to run.
 ## Me
 {: .no-title .about-me }
 
-![](pictures/me.jpg){: .photo }
+![](pictures/icons/iceberg.svg){: .svg .iceberg }
 
 ### Varya Stepanova
-<b>Expert in Design Systems</b><br/>
-<small>Frontend enginner, service designer</small>
+<b>Design Systems Expert</b><br/>
 
-#### Contacts
+* Design systems
+* UI libraries
+* Frontend development
+{: .above }
+
+- Design operations
+- Research-driven project vision and strategy
+- Cultivating a thriving design & development community
+- Facilitating collaboration between teams
+- Setting up effective processes and practices
+- Coaching and training
+- Automating the routines
+{: .below }
+
+
 * [@varya_en](https://twitter.com/varya_en){: .twitter }
 * [varya.me](http://varya.me){: .web }
 * [mail@varya.me](mailto:mail@varya.me)
 {: .contacts }
 
-#### Areas of expertise
-Design systems: production and governance,<br/>pattern libraries, style guides, UI/UX, front end.
-
 <style>
-.about-me p {
-  font-size: 80%;
+.about-me p,
+.about-me .above,
+.about-me .below {
+  font-size: 70%;
 }
-.about-me .photo {
+
+.about-me .above li,
+.about-me .below li {
+  padding-top: 0.15em;
+  padding-bottom: 0.15em;
+}
+
+.about-me .above li:before,
+.about-me .below li:before {
+  left: 310px;
+  line-height: 1.75em;
+}
+
+.about-me .iceberg {
   float: left;
   width: 300px;
-  margin-top: 1em;
+  margin-top: 115px;
   margin-bottom: 6em;
-  margin-right: 1em;
-  border-radius: 50%;
+  margin-right: 2em;
 }
 
 .about-me h4 {
@@ -260,6 +284,9 @@ Design systems: production and governance,<br/>pattern libraries, style guides, 
 .about-me .contacts {
   line-height: 1;
   font-size: 0.8em;
+}
+.about-me .contacts li {
+  display: inline;
 }
 .about-me .contacts li:before {
   content: '';
