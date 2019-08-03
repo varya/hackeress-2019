@@ -1957,6 +1957,8 @@ team and organization.
 * <b>building a UI library</b>
 * <b>practising the processes</b>
 
+Full description at [wonna.fi](https://www.wonna.work/services/workshops).
+
 <!--
 
 Another option is a 2-day workshop, it helps to dive into the topic really deeply. It is shaped so that the participants
