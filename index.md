@@ -1953,9 +1953,9 @@ team and organization.
 * 2 days
 * for designers and developers
 * hands-on
-* creating visual language
-* building a ui library
-* practising the processes
+* <b>creating visual language</b>
+* <b>building a UI library</b>
+* <b>practising the processes</b>
 
 <!--
 
