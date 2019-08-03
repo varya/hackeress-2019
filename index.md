@@ -1919,6 +1919,55 @@ presented and shape your design system up to the needs of your company and proje
 -->
 
 
+## Workshops
+
+### 1. Design systems 101
+* 1 day
+* for designers, developers, product owners and managers
+* <b>introduction, existing solutions, design process</b>
+
+### 2. How to build a design system as a team
+* 1-day
+* for teams and individuals
+* <b>design system content, team processes, system machinery</b>
+
+<!--
+
+Such service design approach is quite challenging, also keeping in mind that there are production prolems alongside. So,
+we at Wonna are offering workshops to facilitate design system set up and maitenance and tailor the processes in the
+project and teams.
+
+We are able to run workshops on the whole spectrum of design systems and design operations challenges. For example, it
+can be introduction workshop which still carries practical exsercises and should be very helpful for a start.
+
+Another options is more process-focused workshop for teams which helps to understand how to proceed. It shows the
+challenges and suggests soltuions to them, including tools. The result is not generic but something which suits specific
+team and organization.
+
+-->
+
+
+## Workshops
+
+### 3. Design system in real world
+* 2 days
+* for designers and developers
+* hands-on
+* creating visual language
+* building a ui library
+* practising the processes
+
+<!--
+
+Another option is a 2-day workshop, it helps to dive into the topic really deeply. It is shaped so that the participants
+can practise real stuff from design to development, including the most challenging things such as brand changes.
+
+This is quite a brief description of the workshops and if you are interested to hear more, please ask me for the
+details.
+
+-->
+
+
 ## Thank you
 {: .thanks }
 
