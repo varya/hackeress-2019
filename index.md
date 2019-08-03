@@ -77,7 +77,7 @@ style: |
 </div>
 </marquee>
 
-<b>Varya Stepanova</b>, Design Systems Expert / [varya.me](http://varya.me)
+<b>Varya Stepanova</b>, Design Systems Expert / [varya.me](http://varya.me) & [wonna.fi](http://wonna.fi)
 {: .author }
 @ Hackeress meetup, August 6<sup>th</sup>, 2019. Helsinki, Finland
 {: .event }
@@ -240,9 +240,9 @@ our design system to run.
 {: .below }
 
 
-* [@varya_en](https://twitter.com/varya_en){: .twitter }
-* [varya.me](http://varya.me){: .web }
-* [mail@varya.me](mailto:mail@varya.me)
+[@varya_en](https://twitter.com/varya_en){: .twitter } /
+[varya.me](http://varya.me) & [wonna.fi](http://wonna.fi) /
+[mail@varya.me](mailto:mail@varya.me)
 {: .contacts }
 
 <style>
@@ -283,13 +283,7 @@ our design system to run.
 
 .about-me .contacts {
   line-height: 1;
-  font-size: 0.8em;
-}
-.about-me .contacts li {
-  display: inline;
-}
-.about-me .contacts li:before {
-  content: '';
+  font-size: 0.75em;
 }
 
 .about-me .twitter
@@ -1937,7 +1931,7 @@ presented and shape your design system up to the needs of your company and proje
 
 #### by Varya Stepanova
 * [@varya_en](https://twitter.com/varya_en){: .twitter }
-* [varya.me](http://varya.me){: .web }
+* [varya.me](http://varya.me) & [wonna.fi](http://wonna.fi)
 * [mail@varya.me](mailto:mail@varya.me)
 {: .contacts }
 
