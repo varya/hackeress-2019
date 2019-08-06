@@ -370,7 +370,7 @@ a plain HTML/CSS library which still needs a lot of automations and technologica
 Besides, there is a large UI kit in Sketch.
 
 Apart from technical perspecitive,
-design system at Elisa means communication practises, visual guidelines, shared processes and tools.
+design system at Elisa means communication practices, visual guidelines, shared processes and tools.
 
 So, during the last year, I had a lot of opportunities to apply different technologies for supporting this ecosystems,
 making processes smooth and more transparent.
@@ -460,8 +460,8 @@ guide.](https://varya.me/design-systems/what-is-a-design-system/)
 As it is yet evolving concept, our understanding of it is changing, so there is no definition. But speaking from
 experience, I would say that a design system is
 
-  - Shared practises, based on which you design your product or bunch of products under the same brand. Components go
-  here, but this is not only about them. The practises can be more abstract or more design related such as visual
+  - Shared practices, based on which you design your product or bunch of products under the same brand. Components go
+  here, but this is not only about them. The practices can be more abstract or more design related such as visual
   language or tone of voice. Or on the contrary, they can be deeply technical and reflect your approach to code.
   - This brings us to tools which our company could have for all the developers and designers to share. As we are speaking
   about design systems as a way of standartizing, they fit there.
@@ -1608,7 +1608,7 @@ and represent it on the weebsite as a chart component. TODO: Give examples.
 As I mentioned, design system is a service and when providing tooling around it, you should consider your fellow
 developers and the users. Service design offers methods to develop new ideas and sharp the services for the users. Like,
 user-centred design etc. The ideas presenetd above were very much developed based on propoper user research which I made
-with my colleagues on existing design system. Usign similar methods, you can develop your own ideas or combine with the
+with my colleagues on existing design system. Using similar methods, you can develop your own ideas or combine with the
 presented and shape your design system up to the needs of your company and projects.
 -->
 
