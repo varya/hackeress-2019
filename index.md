@@ -1225,15 +1225,15 @@ colors.
 }
 
 .reward .github-userpic--bebraw {
-  background-image: url(https://avatars3.githubusercontent.com/u/166921?s=460&v=4);
+  background-image: url(pictures/avatars/bebraw.png);
 }
 
 .reward .github-userpic--freiksenet {
-  background-image: url(https://avatars0.githubusercontent.com/u/172936?s=460&v=4);
+  background-image: url(pictures/avatars/freiksenet.png);
 }
 
 .reward .github-userpic--saravieira {
-  background-image: url(https://avatars0.githubusercontent.com/u/1051509?s=460&v=4);
+  background-image: url(pictures/avatars/saravieira.jpeg);
 }
 
 .reward .edit {
